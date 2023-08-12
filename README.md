@@ -63,7 +63,7 @@ When the party is assembled, continue.
 
 "You will need to move swiftly. This Inn has a stable just past that wall. Steal some horses, but do leave the black one with the golden saddle."
 
-*(Characters get ready and start to go/)*
+*(Characters get ready and start to go.)*
 
 Prince Joao: "Yes, go go! Time is of the essence. Fly, little birds!"
 
